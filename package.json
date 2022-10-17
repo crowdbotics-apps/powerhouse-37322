@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
+    "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

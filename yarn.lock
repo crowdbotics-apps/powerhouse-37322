@@ -1239,7 +1239,10 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
-"@screens/book-appointment@file:./screens/book-appointment/":
+"@screens/book-appointment@file:./screens/book-appointment":
+  version "1.0.0"
+
+"@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
